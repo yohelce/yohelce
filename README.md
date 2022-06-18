@@ -3,7 +3,7 @@
 - 👀 I’m journalist interested in Maths, Science and Software Development.
 - 🌱 I’m currently learning Full-STack Development.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me yohel.cruz.espinoza@gmail.com
+- 📫 How to reach me yohel.cruz@pucp.pe
 
 <div align="center">
   <a href="https://github.com/yohelce">

@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Yohel Cruz
 
-- 👀 I’m journalist interested in Maths, Science and Software Development.
-- 🌱 I’m currently learning Full-STack Development.
+- 👀 I’m bachelor of Journalist interested in Science and Software Development.
+- 🌱 Actually, I’m a Software Engineer candidate.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me yohel.cruz@pucp.pe
 
